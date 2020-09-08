@@ -45,4 +45,4 @@ Inline-style:
 ## Conclusion
 Based on our analysis, we see Des Moines McDonalds density is widely spread around the city and comparing this to NYC McDonalds & Bike rides data, we can draw some conclusions for business predictions that bike ride app business plan initiation is positive if the business locations are focused around tourist spots or city centers with access to public transport stations and focused to operate peak hours.  
 
-[NYC Bikeride Analysis Tableau Story](LINK GOES HERE "link to dashboard")
+[NYC Bikeride Analysis Tableau Story](https://public.tableau.com/profile/hema3799#!/vizhome/NYCBikerideStory/NYCvsDesMonies?publish=yes)
